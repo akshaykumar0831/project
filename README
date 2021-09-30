@@ -1,2 +1,3 @@
 This repository is created to execute the Edureka Devops Project!
 This line is from master branch!!
+This line is to trigger the jenkins automatically whenever there's a push to github!!!
