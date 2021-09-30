@@ -2,7 +2,7 @@ FROM devopsedu/webapp
 
 
 
-MAINTAINER Akshay
+MAINTAINER Akshay Kumar
 
 RUN apt-get update -y
 
